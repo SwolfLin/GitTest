@@ -12,3 +12,5 @@ bbbbbbbbbb
 1010101010
 On branch devel, with works unfinished!
 On Mac OSX
+I am on Mac OSX on Swolf Lin's MacBook
+On Mac again
