@@ -9,3 +9,5 @@
 8888888888
 9999999999
 On branch devel, with works unfinished!
+I am on Mac OSX on Swolf Lin's MacBook
+On Mac again
